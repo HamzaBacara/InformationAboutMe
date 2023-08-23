@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @McTheWeee
+- 👋 Hi, I’m Hamza Bacara
 - 👀 I’m interested in Data analysis, Markup languages, Database technologies & SQL
-- 🌱 I’m currently learning Unreal Engine 5 and C++
-- I am 22-year-old student in Czech Republic focused on Data analysis and Programming languages, in the search for internship. 
+- 🌱 I’m currently learning Power BI
+- I am 23-year-old student in Czech Republic focused on Data analysis field, in the search for a part-time/fulltime job.
